@@ -41,11 +41,3 @@
 <img src="snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/hi7us4xfdixg1sujillxrlbf5">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hi7us4xfdixg1sujillxrlbf5&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
