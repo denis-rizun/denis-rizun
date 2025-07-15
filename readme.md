@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/denis-rizun/denis-rizun/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
 
